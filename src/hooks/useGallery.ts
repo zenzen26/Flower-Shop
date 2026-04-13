@@ -8,7 +8,7 @@ export const useGallery = () => {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch('/data/gallery.csv')
+    fetch('./data/gallery.csv')
       .then(res => res.text())
       .then(csv => {
         Papa.parse(csv, {
