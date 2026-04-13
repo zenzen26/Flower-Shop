@@ -53,7 +53,7 @@ export function StickyVideo() {
   return (
     <video
       ref={videoRef}
-      src="/assets/flower.mp4"
+      src="./assets/flower.mp4"
       muted
       playsInline
       preload="auto"
