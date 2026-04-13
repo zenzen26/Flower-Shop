@@ -1,13 +1,13 @@
 id,name,category,price,featured,short_desc,image_url
-1,La Reine Rouge,Seasonal,$180 – $240,true,Forty long-stemmed crimson roses arranged in cascading tiers,/assets/placeholder.png
-2,Jardin d'Ivoire,Wedding,$220 – $340,false,White peonies garden roses and trailing jasmine in organic form,/assets/placeholder.png
-3,Nuit Dorée,Sympathy,$160 – $220,false,Sunflowers and dried pampas grass in dramatic architectural arrangement,/assets/placeholder.png
-4,Velvet Dusk,Seasonal,$95 – $130,false,Dark dahlias and burgundy ranunculus in deep autumnal tones,/assets/placeholder.png
-5,Première Rose,Wedding,$280 – $420,true,Full bridal cascade of garden roses and trailing eucalyptus,/assets/placeholder.png
-6,Été Sauvage,Seasonal,$75 – $100,false,Wildflower meadow mix loose free-form sun-kissed,/assets/placeholder.png
-7,Neige Éternelle,Sympathy,$120 – $160,false,White lilies and soft eucalyptus for quiet remembrance,/assets/placeholder.png
-8,La Bohème,Wedding,$180 – $260,true,Loose romantic wildflower crown with matching hand-tied bouquet,/assets/placeholder.png
-9,Coucher de Soleil,Occasions,$110 – $150,false,Coral peach and blush tones in warm gradient arrangement,/assets/placeholder.png
-10,Minuit Bleu,Sympathy,$130 – $170,false,Iris and hydrangea in deep violet and midnight blue,/assets/placeholder.png
-11,Soleil Levant,Occasions,$85 – $110,false,Cheerful mixed blooms in warm sunrise colours,/assets/placeholder.png
-12,Minuet Blanc,Occasions,$145 – $195,true,All-white composition of ranunculus sweet peas and lisianthus,/assets/placeholder.png
+1,La Reine Rouge,Seasonal,$180 – $240,true,Forty long-stemmed crimson roses arranged in cascading tiers,assets/placeholder.png
+2,Jardin d'Ivoire,Wedding,$220 – $340,false,White peonies garden roses and trailing jasmine in organic form,assets/placeholder.png
+3,Nuit Dorée,Sympathy,$160 – $220,false,Sunflowers and dried pampas grass in dramatic architectural arrangement,assets/placeholder.png
+4,Velvet Dusk,Seasonal,$95 – $130,false,Dark dahlias and burgundy ranunculus in deep autumnal tones,assets/placeholder.png
+5,Première Rose,Wedding,$280 – $420,true,Full bridal cascade of garden roses and trailing eucalyptus,assets/placeholder.png
+6,Été Sauvage,Seasonal,$75 – $100,false,Wildflower meadow mix loose free-form sun-kissed,assets/placeholder.png
+7,Neige Éternelle,Sympathy,$120 – $160,false,White lilies and soft eucalyptus for quiet remembrance,assets/placeholder.png
+8,La Bohème,Wedding,$180 – $260,true,Loose romantic wildflower crown with matching hand-tied bouquet,assets/placeholder.png
+9,Coucher de Soleil,Occasions,$110 – $150,false,Coral peach and blush tones in warm gradient arrangement,assets/placeholder.png
+10,Minuit Bleu,Sympathy,$130 – $170,false,Iris and hydrangea in deep violet and midnight blue,assets/placeholder.png
+11,Soleil Levant,Occasions,$85 – $110,false,Cheerful mixed blooms in warm sunrise colours,assets/placeholder.png
+12,Minuet Blanc,Occasions,$145 – $195,true,All-white composition of ranunculus sweet peas and lisianthus,assets/placeholder.png
